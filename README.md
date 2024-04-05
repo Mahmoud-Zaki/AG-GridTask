@@ -1,4 +1,4 @@
-# AG Grid Test Automation
+# *AG Grid Test Automation*
 
 This repository contains a test automation project for the AG Grid website.
 The project follows the Page Object Model (POM) design pattern.
